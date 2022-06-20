@@ -6,7 +6,7 @@ Here you will find the procedure you should follow to review your colleagues' pr
 
 1. You should only take into account the code in the default branch of the project's repository.
 
-2. This is not a competition, so be fair and objective in your review, justifying your assessments concisely.
+2. This is not a competition, so be fair and objective in your review, **JUSTIFYING your assessments concisely**.
 
 3. Make sure you have at least Java 17 installed before proceeding if your review.
 
@@ -19,7 +19,7 @@ Here you will find the procedure you should follow to review your colleagues' pr
 
 5. Make sure you can compile, run the test suite, run the application, and generate the documentation for the project. If you have any issues in any of these steps, open an issue on the project's repository and describe your problem. 
 
-6. After you finish your review, post it as an issue your the project's repository.
+6. After you finish your review, post it as an issue on the project's repository.
 
 ## Review form
 
@@ -96,7 +96,7 @@ Here you will find the procedure you should follow to review your colleagues' pr
 
 7.3. How easy it is to understand how the program works by looking at the source code? (`0`: mostly hard to understand, `1`: some fragments are hard to follow, `2`: not hard, but not easy, `3`: easy to understand)
 
-7.4. Is any section of the program excessively inefficient? (`0`: mostly hard to understand, `1`: some fragments are hard to follow, `2`: not hard, but not easy, `3`: easy to understand)
+7.4. Is the program excessively inefficient? (`0`: most methods, `1`: many methods, `2`: few methods, `3`: almost no method)
 
 7.5. Does the program crash unexpectedly (e.g. by an uncaught exception)? (`0`: all the time, `1`: rarely, `2`: it happened once, `3`: never)
 
